@@ -49,7 +49,7 @@ export const managers = [
     },
    {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Jake Bias",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -71,7 +71,7 @@ export const managers = [
     },
    {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Tommy Zereski",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -93,7 +93,7 @@ export const managers = [
     },
    {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Anthony Meness",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -115,7 +115,7 @@ export const managers = [
     },
    {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Sam Adams",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -137,7 +137,7 @@ export const managers = [
     },
    {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "A.J. Smith",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -159,7 +159,7 @@ export const managers = [
     },
    {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Paul Koehler",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -181,7 +181,7 @@ export const managers = [
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
+      "name": "John Todd Jr.",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
       "bio": "Lorem ipsum...",
@@ -203,7 +203,7 @@ export const managers = [
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
+      "name": "Mason Beier",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
       "bio": "Lorem ipsum...",
@@ -225,7 +225,7 @@ export const managers = [
     },
          {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Santana King",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -247,7 +247,7 @@ export const managers = [
     },
    {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Griffen Magda",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
@@ -269,7 +269,7 @@ export const managers = [
     },
    {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Josh Weidus",
+      "name": "Dustin Nelson",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus, OH", // (optional)
       "bio": "Multi-Time Champion",
